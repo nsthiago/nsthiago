@@ -1,4 +1,8 @@
-### Hi there 👋
+# Thiago Novaes
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Novaes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagonovaess/)](https://www.linkedin.com/in/thiagonovaess/) 
+
+
 
 <!--
 **nsthiago/nsthiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
